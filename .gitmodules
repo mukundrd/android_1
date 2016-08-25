@@ -1,0 +1,3 @@
+[submodule "android_lib"]
+	path = android_lib
+	url = git@github.com:mukundrd/android_lib.git
